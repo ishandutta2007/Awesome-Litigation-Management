@@ -2,9 +2,7 @@
 
 ![Awesome Litigation Management Banner](assets/banner.svg)
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![License: MIT](https://img.shields.github.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![PRs Welcome](https://img.shields.github.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/ishandutta2007/Awesome-Litigation-Management/pulls)
+<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a> <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a> [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/ishandutta2007/Awesome-Litigation-Management/pulls) <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
 > A comprehensive curated index of **litigation management platforms, legal case management software, law-firm practice management systems, legal matter management platforms, open-source legal technology, e-discovery tools, and legal AI**.
 
@@ -40,6 +38,8 @@ This repository features both commercial enterprise SaaS suites and **open-sourc
 * [🏗️ Litigation Management Architecture](#️-litigation-management-architecture)
 * [⚖️ Commercial vs Open-Source Comparison](#️-commercial-vs-open-source-comparison)
 * [🔍 SEO & Legal Tech Terminology Index](#-seo--legal-tech-terminology-index)
+* [💖 Support & Community](#-support--community)
+* [📈 Star History](#-star-history)
 * [🤝 Contributing](#-contributing)
 * [⚠️ Disclaimer](#️-disclaimer)
 
@@ -352,6 +352,25 @@ Contributions are welcome! If you know of an active open-source legal technology
 2. Add the project to the appropriate section (keeping tables sorted descending by stars or company size)
 3. Ensure links and star badges follow the standard format
 4. Submit a Pull Request
+
+
+---
+
+## 💖 Support & Community
+
+Thank you for exploring **Awesome Litigation Management**! ⚖️
+
+If you find this curated legal tech index helpful, please consider supporting the project:
+* ⭐ **Star this repository** to raise visibility for open-source legal technology.
+* 🍴 **Fork the repo** and submit pull requests for new tools, frameworks, and updates.
+* 📢 **Share with your colleagues** across law firms, legal ops, and tech communities.
+* ☕ **Sponsor the Project:** Show your appreciation via the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Litigation-Management&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Litigation-Management&type=date&legend=top-left)
 
 ---
 
